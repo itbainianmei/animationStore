@@ -1,0 +1,190 @@
+/*位置 start*/
+    /*向上 start*/
+    @keyframes  toup {
+        100% { bottom:0px; }
+    }
+    @-moz-keyframes  toup {
+        100% { bottom:0px; }
+    }
+    @-webkit-keyframes  toup {
+        100% { bottom:0px; }
+    }
+    @-o-keyframes  toup {  
+        100% { bottom:0px; }
+    }
+    .to-up{  
+        animation-name:toup;
+        animation-duration:1s;
+        animation-timing-function:linear;
+        animation-iteration-count:1;
+        animation-direction:normal; 
+        animation-play-state:running;  
+        animation-fill-mode:forwards;
+        -moz-animation-name:toup;
+
+        -moz-animation-duration:1s;
+        -moz-animation-timing-function:linear;
+        -moz-animation-iteration-count:1;
+        -moz-animation-direction:normal; 
+        -moz-animation-play-state:running;  
+        -moz-animation-fill-mode:forwards;
+
+        -webkit-animation-name:toup;
+        -webkit-animation-duration:1s;
+        -webkit-animation-timing-function:linear;
+        -webkit-animation-iteration-count:1;
+        -webkit-animation-direction:normal; 
+        -webkit-animation-play-state:running;  
+        -webkit-animation-fill-mode:forwards;
+
+        -o-animation-name:toup;
+        -o-animation-duration:1s;
+        -o-animation-timing-function:linear;
+        -o-animation-iteration-count:1;
+        -o-animation-direction:normal; 
+        -o-animation-play-state:running;  
+        -o-animation-fill-mode:forwards;
+    }
+    /*向上 end*/
+    /*向下 start*/
+    @keyframes  todown {
+        100% { top:0px; }
+    }
+    @-moz-keyframes  todown {
+        100% { top:0px; }
+    }
+    @-webkit-keyframes  todown {
+        100% { top:0px; }
+    }
+    @-o-keyframes  todown {  
+        100% { top:0px; }
+    }
+    .to-down{
+        animation-name:todown;
+        animation-duration:1s;
+        animation-timing-function:linear;
+        animation-iteration-count:1;
+        animation-direction:normal; 
+        animation-play-state:running;  
+        animation-fill-mode:forwards;
+        -moz-animation-name:todown;
+
+        -moz-animation-duration:1s;
+        -moz-animation-timing-function:linear;
+        -moz-animation-iteration-count:1;
+        -moz-animation-direction:normal; 
+        -moz-animation-play-state:running;  
+        -moz-animation-fill-mode:forwards;
+
+        -webkit-animation-name:todown;
+        -webkit-animation-duration:1s;
+        -webkit-animation-timing-function:linear;
+        -webkit-animation-iteration-count:1;
+        -webkit-animation-direction:normal; 
+        -webkit-animation-play-state:running;  
+        -webkit-animation-fill-mode:forwards;
+
+        -o-animation-name:todown;
+        -o-animation-duration:1s;
+        -o-animation-timing-function:linear;
+        -o-animation-iteration-count:1;
+        -o-animation-direction:normal; 
+        -o-animation-play-state:running;  
+        -o-animation-fill-mode:forwards;
+    }
+    /*向下 end*/
+    /*向左 start*/
+     @keyframes  toleft {
+        100% { right:0px; }
+    }
+    @-moz-keyframes  toleft {
+        100% { right:0px; }
+    }
+    @-webkit-keyframes  toleft {
+        100% { right:0px; }
+    }
+    @-o-keyframes  toleft {  
+        100% { right:0px; }
+    }
+    .to-left{
+        animation-name:toleft;
+        animation-duration:1s;
+        animation-timing-function:linear;
+        animation-iteration-count:1;
+        animation-direction:normal; 
+        animation-play-state:running;  
+        animation-fill-mode:forwards;
+        -moz-animation-name:toleft;
+
+        -moz-animation-duration:1s;
+        -moz-animation-timing-function:linear;
+        -moz-animation-iteration-count:1;
+        -moz-animation-direction:normal; 
+        -moz-animation-play-state:running;  
+        -moz-animation-fill-mode:forwards;
+
+        -webkit-animation-name:toleft;
+        -webkit-animation-duration:1s;
+        -webkit-animation-timing-function:linear;
+        -webkit-animation-iteration-count:1;
+        -webkit-animation-direction:normal; 
+        -webkit-animation-play-state:running;  
+        -webkit-animation-fill-mode:forwards;
+
+        -o-animation-name:toleft;
+        -o-animation-duration:1s;
+        -o-animation-timing-function:linear;
+        -o-animation-iteration-count:1;
+        -o-animation-direction:normal; 
+        -o-animation-play-state:running;  
+        -o-animation-fill-mode:forwards;
+    }
+    /*向左 end*/
+    /*向右 end*/
+     @keyframes  toright {
+        100% { left:0px; }
+    }
+    @-moz-keyframes  toright {
+        100% { left:0px; }
+    }
+    @-webkit-keyframes  toright {
+        100% { left:0px; }
+    }
+    @-o-keyframes  toright {  
+        100% { left:0px; }
+    }
+    .to-right{
+        animation-name:toright;
+        animation-duration:1s;
+        animation-timing-function:linear;
+        animation-iteration-count:1;
+        animation-direction:normal; 
+        animation-play-state:running;  
+        animation-fill-mode:forwards;
+        -moz-animation-name:toright;
+
+        -moz-animation-duration:1s;
+        -moz-animation-timing-function:linear;
+        -moz-animation-iteration-count:1;
+        -moz-animation-direction:normal; 
+        -moz-animation-play-state:running;  
+        -moz-animation-fill-mode:forwards;
+
+        -webkit-animation-name:toright;
+        -webkit-animation-duration:1s;
+        -webkit-animation-timing-function:linear;
+        -webkit-animation-iteration-count:1;
+        -webkit-animation-direction:normal; 
+        -webkit-animation-play-state:running;  
+        -webkit-animation-fill-mode:forwards;
+
+        -o-animation-name:toright;
+        -o-animation-duration:1s;
+        -o-animation-timing-function:linear;
+        -o-animation-iteration-count:1;
+        -o-animation-direction:normal; 
+        -o-animation-play-state:running;  
+        -o-animation-fill-mode:forwards;
+    }
+    /*向右 end*/
+/*位置 end*/
